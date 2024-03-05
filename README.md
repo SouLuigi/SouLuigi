@@ -16,8 +16,3 @@
  
   ###
  
-<div> 
-
-  ![Snake animation](https://github.com/SouLuigi/SouLuigi/blob/output/github-contribution-grid-snake.svg)
-
-</div>
